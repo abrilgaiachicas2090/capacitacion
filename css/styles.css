@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2, h3{
+    color: rgb(215, 112, 75);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 25px;
+}
+h2{
+    font-size: 20px;
+}
+h3{
+    font-size: 15px;
+}
+
+.destacado {
+    font-weight: 800;
+    color: aqua;
+}
+
+p.destacado {
+    color: rgb(0, 255, 64);
+}
